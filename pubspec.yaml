@@ -1,0 +1,11 @@
+name: love_life
+version: 0.1.0+1
+description: LOVE Life Flutter UI prototype
+publish_to: none
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+flutter:
+  uses-material-design: true
